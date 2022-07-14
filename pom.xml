@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>hello-world</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>hello-world-saidur</artifactId>
+    <version>0.0.1</version>
     <name>hello-world-saidur</name>
     <description>hello-world</description>
     <properties>
