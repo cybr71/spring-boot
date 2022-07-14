@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>hello-world</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hello-world</name>
+    <name>hello-world-saidur</name>
     <description>hello-world</description>
     <properties>
         <java.version>17</java.version>
